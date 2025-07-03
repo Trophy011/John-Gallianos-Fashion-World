@@ -1,0 +1,1 @@
+// Galliano site script placeholder
